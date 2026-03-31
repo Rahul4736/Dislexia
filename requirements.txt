@@ -1,1 +1,6 @@
-
+streamlit
+pymupdf
+gtts
+SpeechRecognition
+google-generativeai
+deep-translator
